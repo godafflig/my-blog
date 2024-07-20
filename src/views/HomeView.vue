@@ -28,7 +28,7 @@
       bachelor à Ynov Campus.<br />
       Ce blog a pour but de documenter toutes les tâches et problèmes que j'ai
       pu rencontrer au cours de ma période de stage, qui s'est déroulée en
-      demi-journée du 1er avril au 28 juin.
+      demi-journée du 1er avril au 21 juin.
     </p>
   </div>
 
