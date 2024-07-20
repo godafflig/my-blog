@@ -1,7 +1,7 @@
 <template>
   <nav>
     <router-link to="/">A Propos</router-link> |
-    <router-link to="/about">Article</router-link>
+    <router-link to="/blog">Article</router-link>
   </nav>
   <router-view/>
 </template>
@@ -17,6 +17,7 @@
 
 nav {
   padding: 30px;
+
 }
 
 nav a {
