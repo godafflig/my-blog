@@ -1,5 +1,6 @@
 
 <template>
+  <h1>SEMAINE 1</h1>
   <div class="blog">
     <p>
       ma première semaine de stage a surtout été le temps où j'ai été intégrer à

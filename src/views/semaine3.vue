@@ -1,8 +1,16 @@
 
 <template>
+  <h1>SEMAINE 3</h1>
+
   <div class="blog">
-    <a>1er semaine</a>
-    <p>jour 1 : </p>
+    <a>3eme semaine</a>
+    <p>
+      réunion avec Sylvain loscoss directeur du festival, rectifié les sponsors et partenaires sur le site,
+      avoir une communication simple et prendredes initaives sur les changement sur le site, Programmation trop pleine epurer et rendre lisible tout cela. les
+      réunion d'information permettent de remettre un cadre et de recentrer
+      l'objectif du festival a tous. Prix collège ( sport et coup de coeur ) Prix
+      lycée ( sport et coup de coeur )
+    </p>
   </div>
 </template>
 
@@ -13,5 +21,4 @@ export default {
 </script>
 
 <style scoped>
-
 </style>

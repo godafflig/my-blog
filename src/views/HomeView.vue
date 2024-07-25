@@ -4,11 +4,11 @@
   </div>
 
   <div class="container">
-    <img src="@/assets/photomoi.png" alt="logo du festival du film scolaire" />
+    <img class="photo" src="@/assets/photomoi.png" alt="logo du festival du film scolaire" />
 
     <p>
       Bonjour, je me présente je m'apelle Tom Benat je suis UI designer.
-      Développeur depuis deux, je suis passionné par le monde du digital, après.
+      Développeur depuis deux, je suis passionné par le monde du digital, après
       Une formation et des expériences dans la restauration, j'ai décidé de me
       Réorienter dans le monde du digital plus particulièrement dans le web
       <br /><br /><br />
@@ -47,6 +47,17 @@
 </template>
 
 <style>
+
+html,body{
+
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+.photo{
+width: 300px;
+}
+
 p {
   font-size: large;
 }
@@ -65,12 +76,4 @@ p {
 </style>
 
 <script>
-import HelloWorld from "@/components/HelloWorld.vue";
-
-export default {
-  name: "HomeView",
-  components: {
-    HelloWorld,
-  },
-};
 </script>

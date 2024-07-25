@@ -1,16 +1,17 @@
 <template>
+  <h1>SEMAINE 2</h1>
+
   <div class="blog">
     <p>
-
-      ma première semaine de stage a surtout été le temps où j'ai été intégrer à
-      l'équipe, présentation à tous les autres stagiaires, dans le cadre de mon
-      stage j'ai intégré une association donc nous Etions tout bénévoles,
+      la deuxième semaine a été une semaine où j'ai pu commencer à intégrer les
+      premiers designs sur le site web du festival notamment une refonte de la
+      page d'accueil base sur mes propres inspirations.Je suis capable d'ajouter
+      d'organiser des élément sur un page grâce à une éditeur en ligne wix 
     </p>
     <p>
-      Aujourd'hui nous avons parlé de mon rôle qui était d'Ux designer et
-      intégrateur web. je vais travailler sur la base d'un travail fait par un
-      ancien stagiaire. j'ai commencé par me familiariser avec l'environnements
-      ( one drive de l'asscocation, CMS WIX, les locaux de l'assocation).
+      Je prend la main sur les outils de Wix notamment avec l'intégration de
+      code directement dans les pages ce qui permet d'avoir un site dynamique et
+      modifiable très facilement.
     </p>
   </div>
 </template>
@@ -30,5 +31,4 @@ export default {
   align-items: center;
   padding: 5em;
 }
-
 </style>

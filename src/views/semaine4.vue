@@ -1,8 +1,14 @@
 
 <template>
+  <h1>SEMAINE 4</h1>
+
   <div class="blog">
-    <a>1er semaine</a>
-    <p>jour 1 : </p>
+    <a>4eme semaine</a>
+    <p>
+      cette semaine a etait consacrée à la réalisation d'un grand calendrier à
+      faire en html Css, qui a pour objectif de partager la programation du
+      festival heure par heure avec tous les activite prévus, remise de prix, radio libre , diffusion des films des éléves.
+    </p>
   </div>
 </template>
 
@@ -13,5 +19,4 @@ export default {
 </script>
 
 <style scoped>
-
 </style>
