@@ -13,4 +13,11 @@ export default {
 </script>
 
 <style scoped>
+.blog {
+  display: flex;
+  transition: all ease 0.5s;
+  flex-direction: column;
+  align-items: center;
+  padding: 5em;
+}
 </style>

@@ -2,6 +2,8 @@
   <h1>SEMAINE 2</h1>
 
   <div class="blog">
+    <a>2ème semaine</a>
+
     <p>
       la deuxième semaine a été une semaine où j'ai pu commencer à intégrer les
       premiers designs sur le site web du festival notamment une refonte de la

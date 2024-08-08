@@ -3,7 +3,7 @@
   <h1>SEMAINE 3</h1>
 
   <div class="blog">
-    <a>3eme semaine</a>
+    <a>3ème semaine</a>
     <p>
       réunion avec Sylvain loscoss directeur du festival, rectifié les sponsors et partenaires sur le site,
       avoir une communication simple et prendredes initaives sur les changement sur le site, Programmation trop pleine epurer et rendre lisible tout cela. les
@@ -21,4 +21,11 @@ export default {
 </script>
 
 <style scoped>
+.blog {
+  display: flex;
+  transition: all ease 0.5s;
+  flex-direction: column;
+  align-items: center;
+  padding: 5em;
+}
 </style>

@@ -3,8 +3,17 @@
   <h1>SEMAINE 11</h1>
 
   <div class="blog">
-    <a>1er semaine</a>
-    <p>jour 1 : </p>
+    <a>11ème semaine</a>
+    <p>
+      cette semaine j'ai realiser un
+      <a href="https://heyzine.com/flip-book/16b5b604fa.html"
+        >flipbook du catalogue du festival 2024
+      </a>
+      j'ai relaissé ce flipbook grace au site internet heyzine qui est un site
+      internet où il est possible de rajouter des images ou des PDF complets
+      pour la création de flipbook il est très intéressant car il est gratuit et
+      propose plusieurs fonctionalite de personnalité du flipbook
+    </p>
   </div>
 </template>
 
@@ -15,5 +24,11 @@ export default {
 </script>
 
 <style scoped>
-
+.blog {
+  display: flex;
+  transition: all ease 0.5s;
+  flex-direction: column;
+  align-items: center;
+  padding: 5em;
+}
 </style>

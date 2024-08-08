@@ -2,6 +2,8 @@
 <template>
   <h1>SEMAINE 1</h1>
   <div class="blog">
+    <a>1er semaine</a>
+
     <p>
       ma première semaine de stage a surtout été le temps où j'ai été intégrer à
       l'équipe, présentation à tous les autres stagiaires, dans le cadre de mon
@@ -10,10 +12,9 @@
     <p>
       Aujourd'hui nous avons parlé de mon rôle qui était d'Ux designer et
       intégrateur web. je vais travailler sur la base d'un travail fait par un
-      ancien stagiaire. j'ai commencé par me familiariser avec l'environnements ( one drive de l'asscocation, CMS WIX, les locaux de l'assocation).
+      ancien stagiaire. j'ai commencé par me familiariser avec l'environnements
+      ( one drive de l'asscocation, CMS WIX, les locaux de l'assocation).
     </p>
-
-
   </div>
 </template>
 

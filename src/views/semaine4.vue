@@ -3,7 +3,7 @@
   <h1>SEMAINE 4</h1>
 
   <div class="blog">
-    <a>4eme semaine</a>
+    <a>4ème semaine</a>
     <p>
       cette semaine a etait consacrée à la réalisation d'un grand calendrier à
       faire en html Css, qui a pour objectif de partager la programation du
@@ -19,4 +19,11 @@ export default {
 </script>
 
 <style scoped>
+.blog {
+  display: flex;
+  transition: all ease 0.5s;
+  flex-direction: column;
+  align-items: center;
+  padding: 5em;
+}
 </style>
