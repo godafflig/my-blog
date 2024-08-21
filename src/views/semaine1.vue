@@ -2,7 +2,7 @@
 <template>
   <h1>SEMAINE 1</h1>
   <div class="blog">
-    <a>1er semaine</a>
+    <h3><a>1er semaine</a></h3>
 
     <p>
       ma première semaine de stage a surtout été le temps où j'ai été intégrer à
@@ -25,11 +25,5 @@ export default {
 </script>
 
 <style scoped>
-p {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 0em 25em 0em 25em;
-  font-size: medium;
-}
+
 </style>

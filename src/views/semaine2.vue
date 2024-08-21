@@ -2,7 +2,7 @@
   <h1>SEMAINE 2</h1>
 
   <div class="blog">
-    <a>2ème semaine</a>
+    <h3><a>2ème semaine</a></h3>
 
     <p>
       la deuxième semaine a été une semaine où j'ai pu commencer à intégrer les
@@ -26,11 +26,5 @@ export default {
 </script>
 
 <style>
-.blog {
-  display: flex;
-  transition: all ease 0.5s;
-  flex-direction: column;
-  align-items: center;
-  padding: 5em;
-}
+
 </style>

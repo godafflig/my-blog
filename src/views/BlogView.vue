@@ -1,5 +1,5 @@
 <template>
-  <div class="blog">
+  <div class="blo">
     <a href="/semaine1">1ère semaine - 01/04.05/04</a>
     <a href="/semaine2">2ème semaine - 08/04.12/04</a>
     <a href="/semaine3">3ème semaine - 15/04.19/04</a>

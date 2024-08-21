@@ -4,7 +4,11 @@
   </div>
 
   <div class="container">
-    <img class="photo" src="@/assets/photomoi.png" alt="logo du festival du film scolaire" />
+    <img
+      class="photo"
+      src="@/assets/photomoi.png"
+      alt="logo du festival du film scolaire"
+    />
 
     <p>
       Bonjour, je me présente je m'apelle Tom Benat je suis UI designer.
@@ -12,11 +16,11 @@
       Une formation et des expériences dans la restauration, j'ai décidé de me
       Réorienter dans le monde du digital plus particulièrement dans le web
       <br /><br /><br />
-      Mes atouts sont : <br>Mon esprit d'équipe, je joue un foot depuis que je suis
-      tout petit donc pour moi l'esprit d'équipe, c'est primordial <br> Ma
-      motivation/perserverance : Je persévère en toutes circonstances, sans
-      jamais abandonner. <br> Mon organisation : l'organisation est essentielle pour
-      moi.
+      Mes atouts sont : <br />Mon esprit d'équipe, je joue un foot depuis que je
+      suis tout petit donc pour moi l'esprit d'équipe, c'est primordial <br />
+      Ma motivation/perserverance : Je persévère en toutes circonstances, sans
+      jamais abandonner. <br />
+      Mon organisation : l'organisation est essentielle pour moi.
     </p>
   </div>
 
@@ -47,15 +51,14 @@
 </template>
 
 <style>
-
-html,body{
-
+html,
+body {
   padding: 0;
   margin: 0;
   border: 0;
 }
-.photo{
-width: 300px;
+.photo {
+  width: 300px;
 }
 
 p {

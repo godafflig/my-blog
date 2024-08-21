@@ -2,8 +2,11 @@
 <template>
   <h1>SEMAINE 12</h1>
   <div class="blog">
-    <a>1er semaine</a>
-    <p>jour 1 :</p>
+    <h3><a>12ème semaine</a></h3>
+    <p>
+      Je suis capable de mettre en action mon savoir être et mon organisation
+      pour placer aider à la mise ne place du cérémonie /p>
+    </p>
   </div>
 </template>
 <script>
@@ -13,11 +16,5 @@ export default {
 </script>
 
 <style scoped>
-.blog {
-  display: flex;
-  transition: all ease 0.5s;
-  flex-direction: column;
-  align-items: center;
-  padding: 5em;
-}
+
 </style>

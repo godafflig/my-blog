@@ -3,8 +3,13 @@
   <h1>SEMAINE 10</h1>
 
   <div class="blog">
-    <a>1er semaine</a>
-    <p>jour 1 : </p>
+    <h3><a>10ème semaine</a></h3>
+    <p>
+      j'ai utilisé un tableau excel pour la gestion de tous les bénévoles pour
+      le jour du festival. plusieurs repas était prévu pour les 30 bénévoles de
+      l'association j'ai donc pris le soin de faire un tableau pour organiser
+      c'est repas.
+    </p>
   </div>
 </template>
 
@@ -15,11 +20,5 @@ export default {
 </script>
 
 <style scoped>
-.blog {
-  display: flex;
-  transition: all ease 0.5s;
-  flex-direction: column;
-  align-items: center;
-  padding: 5em;
-}
+
 </style>

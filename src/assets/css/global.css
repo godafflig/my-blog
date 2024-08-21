@@ -1,0 +1,14 @@
+.blog {
+    display: flex;
+    transition: all ease 0.5s;
+    flex-direction: column;
+    align-items: center;
+    padding: 5em;
+}
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0em 25em 0em 25em;
+    font-size: large;
+  }

@@ -3,13 +3,15 @@
   <h1>SEMAINE 7</h1>
 
   <div class="blog">
-    <a>7ème semaine</a>
+    <h3><a>7ème semaine</a></h3>
     <p>
       cette semaine j'ai dû prendre contact avec notre responsable partenariat;
       car c'étaient partenaire avait changé et il devait être rajouté ou
       supprimer pour certain. nous avons fait une liste de tous les partenaires
       et j'ai profité de ce temps pour refaire la mise en page en prenant en
-      compte la taille et le classement de chaque logo.
+      compte la taille et le classement de chaque logo.Je suis capable d'ajouter
+      d'organiser des élément sur un page grâce à une éditeur en ligne wix dans
+      le cas de mon stage.
     </p>
   </div>
 </template>
@@ -21,11 +23,5 @@ export default {
 </script>
 
 <style scoped>
-.blog {
-  display: flex;
-  transition: all ease 0.5s;
-  flex-direction: column;
-  align-items: center;
-  padding: 5em;
-}
+
 </style>
