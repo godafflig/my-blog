@@ -98,6 +98,8 @@ body {
 }
 
 .grid1 {
+  color: white;
+
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
