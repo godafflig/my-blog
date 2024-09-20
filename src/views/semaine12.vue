@@ -3,7 +3,6 @@
   <h1>SEMAINE 12</h1>
   <div class="blog">
     <h3><a>12ème semaine</a></h3>
-    <h3><a>12ème semaine</a></h3>
     <p>
       Je suis capable de mettre en action mon savoir-être et mon organisation
       pour contribuer à la mise en place de la cérémonie. Cette semaine a été
