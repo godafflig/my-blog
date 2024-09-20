@@ -49,4 +49,28 @@ img {
   font-weight: 700;
   color: rgb(0, 0, 0);
 }
+.blog {
+  padding: 20px; /* Ajoute un espace autour du contenu */
+  max-width: 800px; /* Limite la largeur du texte pour une meilleure lisibilité */
+  margin: 0 auto; /* Centre le container dans la page */
+  text-align: left; /* Texte aligné à gauche */
+  line-height: 1.6; /* Espace entre les lignes de texte */
+  gap: 20px; /* Espace entre les éléments internes (si supporté) */
+}
+
+/* Ajout d'espacement entre les paragraphes */
+.blog p {
+  margin-bottom: 20px;
+  font-size: larger;
+}
+
+h1 {
+  text-align: center; /* Centre le titre "SEMAINE 1" */
+}
+
+h3 a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+}
 </style>
