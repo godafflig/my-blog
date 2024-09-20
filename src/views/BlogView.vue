@@ -27,6 +27,7 @@ export default {
   flex-wrap: wrap;
   justify-content: center;
   padding: 5em;
+  background: red;
 }
 
 /* Utilisation de ::v-deep pour cibler le <a> interne de router-link */
