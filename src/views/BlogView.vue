@@ -27,14 +27,16 @@ export default {
   flex-wrap: wrap;
   justify-content: center;
   padding: 5em;
+
 }
+
 
 .blog-link {
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 20px;
-  background-color: #828de6;
+  background-color: #828de6; /* Couleur de fond assurée */
   color: #c1cbff;
   border-radius: 50px;
   margin: 1em;
@@ -43,6 +45,7 @@ export default {
   box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
   text-align: center;
   text-decoration: none;
+  opacity: 1; /* Assure que l'opacité est bien à 1 (pas transparente) */
 }
 
 .blog-link:hover {
@@ -50,4 +53,5 @@ export default {
   transform: translateY(-15px);
   box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
 }
+
 </style>
