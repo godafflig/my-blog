@@ -5,15 +5,28 @@
     <h3><a>2ème semaine</a></h3>
 
     <p>
-      la deuxième semaine a été une semaine où j'ai pu commencer à intégrer les
-      premiers designs sur le site web du festival notamment une refonte de la
-      page d'accueil base sur mes propres inspirations.Je suis capable d'ajouter
-      d'organiser des élément sur un page grâce à une éditeur en ligne wix 
+      La deuxième semaine a été marquée par mes premiers travaux concrets sur le
+      site web du festival. J'ai notamment commencé par la refonte de la page
+      d'accueil, en m'inspirant de mes propres idées et de certaines tendances
+      modernes du design. Grâce à l'éditeur en ligne de Wix, j'ai pu ajouter et
+      organiser divers éléments sur la page de manière fluide, tout en
+      respectant l'identité visuelle du festival.
     </p>
+
     <p>
-      Je prend la main sur les outils de Wix notamment avec l'intégration de
-      code directement dans les pages ce qui permet d'avoir un site dynamique et
-      modifiable très facilement.
+      J'ai également pris en main les différents outils proposés par Wix, ce qui
+      m'a permis d'intégrer du code directement dans les pages. Cette
+      fonctionnalité m'offre une grande flexibilité pour rendre le site plus
+      dynamique et adaptable. En ajoutant des scripts et des éléments
+      interactifs, je peux facilement ajuster le contenu du site selon les
+      besoins de l'association et les retours des utilisateurs, tout en
+      maintenant une interface simple et intuitive à gérer.
+    </p>
+
+    <p>
+      Cette semaine m'a permis de mieux comprendre le potentiel de l'éditeur Wix
+      et d'améliorer mes compétences en design et en intégration de code, ce qui
+      sera essentiel pour les futures modifications du site web du festival.
     </p>
   </div>
 </template>
@@ -21,10 +34,14 @@
 
 <script>
 export default {
-  name: "SemaineStage1", // Changez le nom du composant ici
+  name: "SemaineStage2", // Changez le nom du composant ici
 };
 </script>
 
 <style>
-
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
 </style>

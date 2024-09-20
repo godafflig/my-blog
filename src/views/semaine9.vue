@@ -5,21 +5,45 @@
   <div class="blog">
     <h3><a>9ème semaine</a></h3>
     <p>
-      cette semaine a été riche en finition et detail du site avec les réglages
-      Des derniers changements du site internet et du programme. en effet le
-      festival s'approchant des plans change et nous devons nous adapter avec
-      l'équipe certains jurys peuvent annuler leur venue ou certains sponsors
-      peuvent se rajouter. il faut donc tous les jours mettre à jour le site
+      Cette semaine a été particulièrement riche en finitions et en détails
+      concernant le site. J'ai travaillé sur les réglages des derniers
+      changements apportés à la plateforme et au programme du festival. À
+      l'approche de l'événement, nous avons dû faire face à divers ajustements :
+      certains jurys ont annulé leur venue, tandis que de nouveaux sponsors se
+      sont ajoutés à la liste. Cette dynamique a nécessité une grande
+      flexibilité de notre part.
+    </p>
+
+    <p>
+      En collaboration avec l'équipe, nous avons mis en place un système pour
+      mettre à jour le site quotidiennement. Cela inclut la révision des
+      informations sur les jurys, les sponsors et la programmation, afin de
+      garantir que le contenu reflète toujours la réalité de l'événement. Grâce
+      à l'éditeur de Wix, j'ai pu effectuer ces modifications rapidement et
+      efficacement, en assurant une communication fluide sur toutes les pages du
+      site.
+    </p>
+
+    <p>
+      Cette semaine m'a permis de développer mes compétences en gestion de
+      contenu dynamique et d'apprendre à m'adapter rapidement aux changements.
+      J'ai compris l'importance de maintenir le site à jour pour offrir aux
+      visiteurs une expérience fiable et pertinente, ce qui est crucial pour le
+      succès du festival.
     </p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "SemaineStage1", // Changez le nom du composant ici
+  name: "SemaineStage9", // Changez le nom du composant ici
 };
 </script>
 
 <style scoped>
-
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
 </style>

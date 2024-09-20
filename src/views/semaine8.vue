@@ -5,23 +5,43 @@
   <div class="blog">
     <h3><a>8ème semaine</a></h3>
     <p>
-      cette semaine j'ai été en binôme avec notre graphiste qui c'était occupé
-      de créent des designs pour les nouveaux jurys de cette édition 2024 du
-      festival, j'ai posté c'est design sur le site internet ajouter des
-      Animation et mis en page le site version téléphone et mobile en integrant
-      une tout nouvelle page pour les jurys.Je suis capable d'ajouter
-      d'organiser des élément sur un page grâce à une éditeur en ligne wix dans
-      le cas de mon stage.
+      Cette semaine, j'ai travaillé en binôme avec notre graphiste, qui s'est
+      chargé de créer les nouveaux designs pour les jurys de l'édition 2024 du
+      festival. Mon rôle a été de publier ces designs sur le site internet, tout
+      en y ajoutant des animations pour rendre la présentation plus dynamique et
+      attrayante. J'ai également mis en page la version mobile du site, en
+      veillant à ce que l'affichage soit optimisé pour les téléphones et
+      tablettes.
+    </p>
+
+    <p>
+      En parallèle, j'ai intégré une toute nouvelle page dédiée aux jurys, où
+      j'ai organisé les éléments en fonction des créations graphiques fournies
+      par le graphiste. Grâce à l'éditeur en ligne de Wix, j'ai pu ajuster
+      facilement la disposition et ajouter des effets interactifs pour améliorer
+      l'expérience utilisateur.
+    </p>
+
+    <p>
+      Cette collaboration m'a permis de renforcer mes compétences en mise en
+      page et en animation web, tout en apprenant à intégrer rapidement des
+      éléments visuels dans un environnement en ligne. Je suis désormais capable
+      de gérer de bout en bout la création de pages web en utilisant les outils
+      de Wix, et d'assurer une cohérence entre le design et le contenu du site.
     </p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "SemaineStage1", // Changez le nom du composant ici
+  name: "SemaineStage8", // Changez le nom du composant ici
 };
 </script>
 
 <style scoped>
-
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
 </style>

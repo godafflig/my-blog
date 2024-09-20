@@ -5,24 +5,45 @@
   <div class="blog">
     <h3><a>6ème semaine</a></h3>
     <p>
-      cette semaine j'ai continué le calendrier toujours en html Css du site; le
-      site internet avait une version mobile quil fallait gérer d'une façon
-      Différente j'ai donc pris le parti prit de faire une version responsive du
-      code pour faciliter la mise en production de la page. la page était faite
-      en deux parties et la version mobile étaient gérés grace à la
-      Rfonctionalite de six qui mette à lechelle l'interface mais cette
-      interface n'était pas assez lisible.Je sais mettre à profit mon temps pour
-      être le plus efficient possible dans mon travail
+      Cette semaine, j'ai poursuivi le développement du calendrier en HTML et
+      CSS pour le site. Une des principales tâches a été de gérer la version
+      mobile du site, qui nécessitait une approche différente. J'ai donc décidé
+      d'opter pour une version responsive du code, ce qui facilite la mise en
+      production et assure une meilleure compatibilité entre les différents
+      appareils. La page était divisée en deux parties, et bien que Wix propose
+      une fonctionnalité pour redimensionner automatiquement l'interface sur
+      mobile, le rendu n'était pas suffisamment lisible.
+    </p>
+
+    <p>
+      En travaillant sur la version responsive, j'ai amélioré l'expérience
+      utilisateur sur les petits écrans en optimisant l'affichage des
+      informations. Cela m'a permis de rendre la page plus accessible et facile
+      à lire, tout en conservant l'intégrité du design. Cette approche m'a aussi
+      aidé à gérer mon temps plus efficacement et à être plus productif dans mon
+      travail, en anticipant les défis techniques liés à l'adaptabilité du site.
+    </p>
+
+    <p>
+      Grâce à ce projet, j'ai renforcé mes compétences en développement
+      responsive et j'ai pu constater l'importance de penser l'interface de
+      manière fluide, quelle que soit la taille de l'écran. Cela m'a également
+      permis d'améliorer mes méthodes de travail pour être plus efficient dans
+      la gestion de tâches complexes.
     </p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "SemaineStage1", // Changez le nom du composant ici
+  name: "SemaineStage6", // Changez le nom du composant ici
 };
 </script>
 
 <style scoped>
-
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
 </style>

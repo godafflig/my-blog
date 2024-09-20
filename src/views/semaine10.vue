@@ -4,21 +4,44 @@
 
   <div class="blog">
     <h3><a>10ème semaine</a></h3>
+
     <p>
-      j'ai utilisé un tableau excel pour la gestion de tous les bénévoles pour
-      le jour du festival. plusieurs repas était prévu pour les 30 bénévoles de
-      l'association j'ai donc pris le soin de faire un tableau pour organiser
-      c'est repas.
+      Cette semaine, j'ai utilisé un tableau Excel pour gérer l'ensemble des
+      bénévoles pour le jour du festival. Avec la participation de 30 bénévoles
+      de l'association, il était essentiel de bien organiser les repas prévus
+      pour chacun d'entre eux. J'ai donc pris le soin de créer un tableau clair
+      et détaillé afin de planifier ces repas de manière efficace.
+    </p>
+
+    <p>
+      Dans ce tableau, j'ai noté les différentes options de repas, les allergies
+      éventuelles des bénévoles et les horaires de distribution. Cela m'a permis
+      de m'assurer que chaque bénévole ait un repas qui lui convienne, tout en
+      évitant tout problème logistique le jour J. Grâce à cette organisation,
+      nous pourrons offrir un service fluide et agréable aux bénévoles, qui sont
+      essentiels au bon déroulement de l'événement.
+    </p>
+
+    <p>
+      Cette expérience m'a appris l'importance de la planification et de la
+      gestion des ressources humaines dans le cadre d'un événement, tout en
+      renforçant mes compétences en utilisation d'outils de gestion comme Excel.
+      Je suis désormais plus à l'aise avec la création de tableaux organisés, ce
+      qui sera un atout pour des projets futurs.
     </p>
   </div>
 </template>
 
 <script>
 export default {
-  name: "SemaineStage1", // Changez le nom du composant ici
+  name: "SemaineStage10", // Changez le nom du composant ici
 };
 </script>
 
 <style scoped>
-
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
 </style>

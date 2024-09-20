@@ -2,18 +2,33 @@
 <template>
   <h1>SEMAINE 1</h1>
   <div class="blog">
-    <h3><a>1er semaine</a></h3>
-
+    <h3><a>1ère semaine</a></h3>
     <p>
-      ma première semaine de stage a surtout été le temps où j'ai été intégrer à
-      l'équipe, présentation à tous les autres stagiaires, dans le cadre de mon
-      stage j'ai intégré une association donc nous Etions tout bénévoles,
+      Ma première semaine de stage a surtout été l'occasion de m'intégrer à
+      l'équipe, de me présenter aux autres stagiaires et de me familiariser avec
+      le fonctionnement de l'association. Étant une organisation bénévole, nous
+      travaillons tous de manière volontaire et collaborative.
     </p>
     <p>
-      Aujourd'hui nous avons parlé de mon rôle qui était d'Ux designer et
-      intégrateur web. je vais travailler sur la base d'un travail fait par un
-      ancien stagiaire. j'ai commencé par me familiariser avec l'environnements
-      ( one drive de l'asscocation, CMS WIX, les locaux de l'assocation).
+      Aujourd'hui, nous avons discuté de mon rôle en tant qu'UX designer et
+      intégrateur web. Je vais reprendre le travail initié par un ancien
+      stagiaire, ce qui me donne une base pour avancer. J'ai commencé par me
+      familiariser avec l'environnement de travail : l'accès à OneDrive de
+      l'association, la plateforme CMS WIX sur laquelle nous travaillons, et
+      bien sûr, les locaux de l'association, qui sont simples mais bien
+      organisés.
+    </p>
+    <p>
+      La première étape consiste à analyser les tâches déjà effectuées et à
+      planifier les améliorations. Je vais également travailler en collaboration
+      avec les autres membres de l'équipe pour assurer que le design et
+      l'intégration répondent aux besoins des utilisateurs finaux. Le défi
+      principal sera d'apporter des solutions innovantes tout en respectant les
+      ressources limitées de l'association.
+    </p>
+    <p>
+      Cette première semaine m'a permis de mieux comprendre les attentes de mon
+      stage, tout en me préparant aux projets à venir.
     </p>
   </div>
 </template>
@@ -25,5 +40,9 @@ export default {
 </script>
 
 <style scoped>
-
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
 </style>
