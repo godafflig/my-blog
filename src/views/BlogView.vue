@@ -1,6 +1,6 @@
 <template>
   <div class="blog">
-    <router-link :to="'/semaine1'">1ère semaine - 01/04.05/04</router-link>
+    <router-link class="a" :to="'/semaine1'">1ère semaine - 01/04.05/04</router-link>
     <router-link :to="'/semaine2'">2ème semaine - 08/04.12/04</router-link>
     <router-link :to="'/semaine3'">3ème semaine - 15/04.19/04</router-link>
     <router-link :to="'/semaine4'">4ème semaine - 22/04.26/04</router-link>
@@ -28,7 +28,7 @@ export default {
   justify-content: center;
   padding: 5em;
 }
-.blog a {
+.blog .a {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -43,7 +43,7 @@ export default {
   text-align: center;
   text-decoration: none;
 }
-.blog a:hover {
+.blog .a:hover {
   background-color: #4b558f;
   transform: translateY(-15px);
   box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
